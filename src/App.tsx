@@ -11,7 +11,7 @@ function App() {
     <>
       
         <div className="text-large border p-10">
-          Helllo, {user?.first_name || 'gegege'} !
+          Helllo, {user?.first_name || 'але я не знаю як тебе звуть'} !
         </div>
     </>
   )
